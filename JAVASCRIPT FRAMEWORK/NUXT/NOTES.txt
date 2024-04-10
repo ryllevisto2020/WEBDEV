@@ -1,0 +1,5 @@
+API DOCS
+https://nuxt.com/docs/api
+
+NUXT DOCS
+https://nuxt.com/docs/getting-started/introduction

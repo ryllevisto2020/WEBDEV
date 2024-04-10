@@ -1,0 +1,4 @@
+API DOCS
+
+NEXT DOCS
+https://nextjs.org/docs
