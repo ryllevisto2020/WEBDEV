@@ -1,0 +1,7 @@
+API DOCS
+https://learn.microsoft.com/en-us/dotnet/api/?view=net-8.0
+https://learn.microsoft.com/en-us/dotnet/api/?view=dotnet-plat-ext-8.0
+https://learn.microsoft.com/en-us/dotnet/api/?view=aspnetcore-8.0
+
+ASP DOCS
+https://learn.microsoft.com/en-us/aspnet/core/introduction-to-aspnet-core?view=aspnetcore-8.0
